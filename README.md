@@ -14,4 +14,17 @@ Cada un declarado de manera statica.
 * Structures: Contiene el metodo que genera las estructuras en base a los arreglos y cada uno de los metodos que crea las imagenes 
 .png de cada grafo.
 * Operador: Es la clase principal de la parte de javafx del proyecto.
-* LecturaArchivoController: Esta clase es el controlador del archivo LecturaArchivo.fxml que 
+* LecturaArchivoController: Esta clase es el controlador del archivo LecturaArchivo.fxml que corre el metodo de lectura de la clase
+Lectory muestra la ventana de crea y muestra los grafos.
+* MostrarGrafosController: Esta clase es el controlador del archivo MostrarGrafos.fxml qu een caso de que las estructuras no esten vacias
+crear un archivo .png con el grafo de ellas y las muestra en un ImageView.
+
+Nota Importante
+---------------
+Cabe destacar que para el funcionamiento correcto de este programa el archivo .txt se debe encontrar en la carpeta TestFolder del usuario Public del ordenador. Aqui esta un ejemplo de la direccion donde se debe ubir el archivo: "C:\\Users\\Public\\TestFolder\\".
+
+### Imagenes de Ejecucion
+1. Ventana de ingreso de nombre de archivo .txt
+2. Ventana de muestra de Grafos
+3. Mensaje de Grafos Creados
+4. Muestra de Grafos
