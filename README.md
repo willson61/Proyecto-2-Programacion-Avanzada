@@ -24,7 +24,11 @@ Nota Importante
 Cabe destacar que para el funcionamiento correcto de este programa el archivo .txt se debe encontrar en la carpeta TestFolder del usuario Public del ordenador. Aqui esta un ejemplo de la direccion donde se debe ubir el archivo: "C:\\Users\\Public\\TestFolder\\".
 
 ### Imagenes de Ejecucion
-1. Ventana de ingreso de nombre de archivo .txt
+1. Ventana de ingreso de nombre de archivo .txt                              
+![img - 1](https://github.com/willson61/Proyecto-2-Programacion-Avanzada/blob/master/ImgEjecucion/img1.png)
 2. Ventana de muestra de Grafos
+![img - 2](https://github.com/willson61/Proyecto-2-Programacion-Avanzada/blob/master/ImgEjecucion/img2.png)
 3. Mensaje de Grafos Creados
+![img - 3](https://github.com/willson61/Proyecto-2-Programacion-Avanzada/blob/master/ImgEjecucion/img3.png)
 4. Muestra de Grafos
+![img - 4](https://github.com/willson61/Proyecto-2-Programacion-Avanzada/blob/master/ImgEjecucion/img4.png)
